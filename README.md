@@ -1,3 +1,5 @@
+<img src=https://komarev.com/ghpvc/?username=mgarg123/>
+
 - 👋 Hi, I’m @mgarg123
 - 👀 I’m interested in latest techs like ML, Data Science, Full stack development etc.
 - 🌱 I’m currently learning Data Science, ML, Deep Learning
