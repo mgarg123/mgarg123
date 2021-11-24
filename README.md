@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @mgarg123
 - 👀 I’m interested in latest techs like ML, Data Science, Full stack development etc.
-- 🌱 I’m currently learning Data Science, ML, Deep Learning
-- 💞️ I’m looking to collaborate on ML, Data Science
+- 🌱 I’m currently learning Data Science, ML, Deep Learning.
+- 💞️ I’m looking to collaborate on Full Stack Development (Angular, React, Java, Node JS), ML, Data Science
 - 📫 I am reachable at manish.garg771@gmail.com
 
 <!---
