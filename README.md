@@ -9,7 +9,7 @@ I'm a full-stack engineer and tools enthusiast — building practical, privacy-f
 
 ## 🛠 My Latest Projects
 
-- [`@user-intent-detector`](https://github.com/your-username/user-intent-detector)  
+- [`@user-intent-detector`](https://github.com/mgarg123/user-intent-detector)  
   Lightweight library to detect user intent (exit, idle, hesitation, etc.) in real-time using JavaScript and React
 
 - [`ToolPe`](https://toolpe.in)  
